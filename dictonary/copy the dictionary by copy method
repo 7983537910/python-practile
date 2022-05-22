@@ -1,0 +1,7 @@
+dict_a = {'id' : 101, 'name' : 'Amit', 'age': 21}
+dict_b = dict_a.copy()
+print("Dictionary \'dict_a\' is...")
+print(dict_a)
+
+print("Dictionary \'dict_b\' is...")
+print(dict_b)
